@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         click and get
+         click and get-------
         </a>
       </header>
     </div>
