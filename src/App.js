@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React dsad dsa
+         click and get
         </a>
       </header>
     </div>
